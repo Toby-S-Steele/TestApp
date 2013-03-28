@@ -10,7 +10,7 @@ namespace TestApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, from the test jenkins app!");
+			Console.WriteLine("Hello, from the test Jenkins app!");
 		}
 	}
 }
